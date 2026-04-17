@@ -1,0 +1,111 @@
+DOMAIN,api.ipify.org
+DOMAIN,api-ipv4.ip.sb
+DOMAIN,api.ip.sb
+DOMAIN,ip-api.com
+DOMAIN,api.myip.com
+DOMAIN,ipinfo.io
+DOMAIN,ipwho.is
+DOMAIN,ipapi.co
+DOMAIN,ident.me
+DOMAIN-SUFFIX,docker.io
+DOMAIN,services.googleapis.cn
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-KEYWORD,discord
+DOMAIN,discordapp.onelink.me
+DOMAIN,notify.wilds.monsterhunter.com
+DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN,www.torayvino.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN,download.sweetscape.com
+DOMAIN,download.tualatin.club
+DOMAIN-SUFFIX,qiangwaikan.com
+DOMAIN,shop.owo233.xyz
+DOMAIN,wiki.metacubex.one
+DOMAIN,www.macrodroidforum.com
+DOMAIN,backend.macrodroid.com
+DOMAIN,saucenao.com
+DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
+DOMAIN,cdnjs.cloudflare.com
+# masterduel
+DOMAIN,ayk-pur.mo.konami.net
+DOMAIN,ayk-stm-pur.mo.konami.net
+DOMAIN,ayk-auth.mo.konami.net
+DOMAIN,ayk-stm-auth.mo.konami.net
+DOMAIN,ayk-match.mo.konami.net
+DOMAIN,ayk-pvp.mo.konami.net
+DOMAIN,ayk-web.mo.konami.net
+DOMAIN,www.applilink.jp
+DOMAIN,yocg-ap.cs.konami.net
+# konami
+DOMAIN,yugioh-duelist-point.konami.net
+DOMAIN,cdn-apac.onetrust.com
+DOMAIN,assets.adobedtm.com
+DOMAIN,code.jquery.com
+DOMAIN,edge.adobedc.net
+# ygo
+DOMAIN,files.ygom.top
+DOMAIN,ygom.top
+DOMAIN,www.masterduelmeta.com
+DOMAIN,ygocdb.com
+DOMAIN,get-deck.com
+DOMAIN,ygocounter.com
+# peeerban
+DOMAIN,bcr.pbh-btn.ghorg.ghostchu-services.top
+DOMAIN,uma.pbh-btn.com
+DOMAIN,pbh-files.pbh-btn.com
+# 禁漫
+DOMAIN,www.jmapinode.vip
+DOMAIN,cdn-msp2.jmapinodeudzn.net
+DOMAIN,jmcomic.me
+# 拷贝漫画
+DOMAIN,www.copymanga.hk
+DOMAIN,www.copymango.cn
+# young jump
+DOMAIN,api16-access-gcp.pangle-b.io
+DOMAIN,api.karte.io
+# pika
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN,h.wikawika.xyz
+DOMAIN,image.airav.live
+# Digimon
+DOMAIN,digidb.io
+DOMAIN,wikimon.net
+DOMAIN,www.digimon.net
+DOMAIN-SUFFIX,dmevo.top
+# hanime
+DOMAIN,vdownload.hembed.com
+#
+DOMAIN-SUFFIX,xxfhd.com
+DOMAIN,javdb.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN,c0.jdbstatic.com
+DOMAIN,www.javbus.com
+DOMAIN-SUFFIX,ero-video.net
+DOMAIN,rule34video.com
+DOMAIN-SUFFIX,boomio-cdn.com
+DOMAIN,t.snaptrckr.fun
+#
+DOMAIN-KEYWORD,missav
+DOMAIN,fourhoi.com
+DOMAIN,surrit.com
+#
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+# 良心云支付
+DOMAIN,50pay.xiajuan88.com
+# 机场
+DOMAIN,www.selom.xyz
+DOMAIN,shanhai.me
+DOMAIN,shanhai.one
+DOMAIN,shanhai.sbs
+DOMAIN,shanhai.cfd
+DOMAIN,shanhai.click
+DOMAIN,shanhai.cyou
+DOMAIN,web.shanhai.me
+DOMAIN,sub01.sh-cloudflare.sbs
+DOMAIN,liangxin.xyz

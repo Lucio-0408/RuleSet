@@ -12,19 +12,14 @@ DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-KEYWORD,discord
 DOMAIN,discordapp.onelink.me
-DOMAIN,notify.wilds.monsterhunter.com
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,cloudfront.net
-DOMAIN,www.torayvino.com
-DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN,download.sweetscape.com
 DOMAIN,download.tualatin.club
 DOMAIN-SUFFIX,qiangwaikan.com
 DOMAIN,shop.owo233.xyz
 DOMAIN,wiki.metacubex.one
-DOMAIN,www.macrodroidforum.com
-DOMAIN,backend.macrodroid.com
 DOMAIN,saucenao.com
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,cdnjs.cloudflare.com
@@ -51,7 +46,7 @@ DOMAIN,www.masterduelmeta.com
 DOMAIN,ygocdb.com
 DOMAIN,get-deck.com
 DOMAIN,ygocounter.com
-# peeerban
+# peerban
 DOMAIN,bcr.pbh-btn.ghorg.ghostchu-services.top
 DOMAIN,uma.pbh-btn.com
 DOMAIN,pbh-files.pbh-btn.com
@@ -74,8 +69,6 @@ DOMAIN,digidb.io
 DOMAIN,wikimon.net
 DOMAIN,www.digimon.net
 DOMAIN-SUFFIX,dmevo.top
-# hanime
-DOMAIN,vdownload.hembed.com
 #
 DOMAIN-SUFFIX,xxfhd.com
 DOMAIN,javdb.com
@@ -96,16 +89,3 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch
 DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
-# 良心云支付
-DOMAIN,50pay.xiajuan88.com
-# 机场
-DOMAIN,www.selom.xyz
-DOMAIN,shanhai.me
-DOMAIN,shanhai.one
-DOMAIN,shanhai.sbs
-DOMAIN,shanhai.cfd
-DOMAIN,shanhai.click
-DOMAIN,shanhai.cyou
-DOMAIN,web.shanhai.me
-DOMAIN,sub01.sh-cloudflare.sbs
-DOMAIN,liangxin.xyz

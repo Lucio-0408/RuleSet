@@ -9,9 +9,6 @@ DOMAIN,cdncf.moecube.com
 DOMAIN,ocg-rule.readthedocs.io
 DOMAIN,media.ethicalads.io
 DOMAIN,unpkg.com
-# DOMAIN,api.ttt.sh
-# DOMAIN,api-ipv4.ip.sb
-# DOMAIN-SUFFIX,ipchaxun.com
 #
 DOMAIN-SUFFIX,monsterhunter.com
 DOMAIN,www.capcom-games.com
@@ -20,12 +17,7 @@ DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN,download.omarea.com
-# DOMAIN,material.anonymised.io
-# DOMAIN,pixel.rubiconproject.com
-# DOMAIN-SUFFIX,rng.vip
-# DOMAIN,zh.rakko.tools
 DOMAIN,time.is
-DOMAIN,pool.ntp.org
 DOMAIN,bugreport.pixpin.com
 DOMAIN-SUFFIX,untapped.gg
 DOMAIN-SUFFIX,simeji.me

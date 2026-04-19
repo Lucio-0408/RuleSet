@@ -8,7 +8,6 @@ DOMAIN,ipwho.is
 DOMAIN,ipapi.co
 DOMAIN,ident.me
 DOMAIN-SUFFIX,docker.io
-DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-KEYWORD,discord
 DOMAIN,discordapp.onelink.me
@@ -21,7 +20,6 @@ DOMAIN-SUFFIX,qiangwaikan.com
 DOMAIN,shop.owo233.xyz
 DOMAIN,wiki.metacubex.one
 DOMAIN,saucenao.com
-DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,cdnjs.cloudflare.com
 # masterduel
 DOMAIN,ayk-pur.mo.konami.net

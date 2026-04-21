@@ -10,6 +10,7 @@ DOMAIN,ocg-rule.readthedocs.io
 DOMAIN,media.ethicalads.io
 DOMAIN,unpkg.com
 #
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,monsterhunter.com
 DOMAIN,www.capcom-games.com
 DOMAIN,api.byyang.top

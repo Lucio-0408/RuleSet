@@ -22,6 +22,8 @@ DOMAIN,wiki.metacubex.one
 DOMAIN,saucenao.com
 DOMAIN,cdnjs.cloudflare.com
 DOMAIN,guatizi.com
+DOMAIN,ffq.la
+DOMAIN,ffqla.com
 DOMAIN,client.relay.crisp.chat
 DOMAIN,client.crisp.chat
 DOMAIN,cdn-eu.dynamicyield.com
@@ -58,9 +60,6 @@ DOMAIN,pbh-files.pbh-btn.com
 DOMAIN,www.jmapinode.vip
 DOMAIN,cdn-msp2.jmapinodeudzn.net
 DOMAIN,jmcomic.me
-# 拷贝漫画
-DOMAIN,www.copymanga.hk
-DOMAIN,www.copymango.cn
 # young jump
 DOMAIN,api16-access-gcp.pangle-b.io
 DOMAIN,api.karte.io

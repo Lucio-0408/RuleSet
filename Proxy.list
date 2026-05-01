@@ -9,18 +9,16 @@ DOMAIN,ipapi.co
 DOMAIN,ident.me
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,giffgaff.com
-DOMAIN-KEYWORD,discord
-DOMAIN,discordapp.onelink.me
 DOMAIN-SUFFIX,obsproject.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,sourceforge.net
 DOMAIN,download.sweetscape.com
 DOMAIN,download.tualatin.club
 DOMAIN-SUFFIX,qiangwaikan.com
 DOMAIN,shop.owo233.xyz
 DOMAIN,wiki.metacubex.one
 DOMAIN,saucenao.com
-DOMAIN,cdnjs.cloudflare.com
+DOMAIN,img3.saucenao.com
+DOMAIN,img1.saucenao.com
+# DOMAIN,cdnjs.cloudflare.com
 DOMAIN,guatizi.com
 DOMAIN,ffq.la
 DOMAIN,ffqla.com
@@ -29,6 +27,12 @@ DOMAIN,client.crisp.chat
 DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,st-eu.dynamicyield.com
 DOMAIN,rcom-eu.dynamicyield.com
+# 禁漫
+# DOMAIN,l.ntxqy.com
+# DOMAIN-SUFFIX,jmdanjonproxy.xyz
+# DOMAIN-SUFFIX,jmdanjonproxy.vip
+# DOMAIN,www.cdnhjk.net
+# DOMAIN,apijm.cc
 # masterduel
 DOMAIN,ayk-pur.mo.konami.net
 DOMAIN,ayk-stm-pur.mo.konami.net
@@ -39,12 +43,6 @@ DOMAIN,ayk-pvp.mo.konami.net
 DOMAIN,ayk-web.mo.konami.net
 DOMAIN,www.applilink.jp
 DOMAIN,yocg-ap.cs.konami.net
-# konami
-DOMAIN,yugioh-duelist-point.konami.net
-DOMAIN,cdn-apac.onetrust.com
-DOMAIN,assets.adobedtm.com
-DOMAIN,code.jquery.com
-DOMAIN,edge.adobedc.net
 # ygo
 DOMAIN,files.ygom.top
 DOMAIN,ygom.top
@@ -56,10 +54,6 @@ DOMAIN,ygocounter.com
 DOMAIN,bcr.pbh-btn.ghorg.ghostchu-services.top
 DOMAIN,uma.pbh-btn.com
 DOMAIN,pbh-files.pbh-btn.com
-# 禁漫
-DOMAIN,www.jmapinode.vip
-DOMAIN,cdn-msp2.jmapinodeudzn.net
-DOMAIN,jmcomic.me
 # young jump
 DOMAIN,api16-access-gcp.pangle-b.io
 DOMAIN,api.karte.io
@@ -83,7 +77,7 @@ DOMAIN,rule34video.com
 DOMAIN-SUFFIX,boomio-cdn.com
 DOMAIN,t.snaptrckr.fun
 #
-DOMAIN-KEYWORD,missav
+DOMAIN,missav.ai
 DOMAIN,fourhoi.com
 DOMAIN,surrit.com
 #

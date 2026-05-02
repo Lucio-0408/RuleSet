@@ -27,12 +27,6 @@ DOMAIN,client.crisp.chat
 DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,st-eu.dynamicyield.com
 DOMAIN,rcom-eu.dynamicyield.com
-# 禁漫
-# DOMAIN,l.ntxqy.com
-# DOMAIN-SUFFIX,jmdanjonproxy.xyz
-# DOMAIN-SUFFIX,jmdanjonproxy.vip
-# DOMAIN,www.cdnhjk.net
-# DOMAIN,apijm.cc
 # masterduel
 DOMAIN,ayk-pur.mo.konami.net
 DOMAIN,ayk-stm-pur.mo.konami.net
@@ -41,7 +35,6 @@ DOMAIN,ayk-stm-auth.mo.konami.net
 DOMAIN,ayk-match.mo.konami.net
 DOMAIN,ayk-pvp.mo.konami.net
 DOMAIN,ayk-web.mo.konami.net
-DOMAIN,www.applilink.jp
 DOMAIN,yocg-ap.cs.konami.net
 # ygo
 DOMAIN,files.ygom.top
@@ -78,6 +71,7 @@ DOMAIN-SUFFIX,boomio-cdn.com
 DOMAIN,t.snaptrckr.fun
 #
 DOMAIN,missav.ai
+DOMAIN,client-rapi-missav.recombee.com
 DOMAIN,fourhoi.com
 DOMAIN,surrit.com
 #

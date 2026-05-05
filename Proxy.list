@@ -40,8 +40,12 @@ DOMAIN,yocg-ap.cs.konami.net
 DOMAIN,files.ygom.top
 DOMAIN,ygom.top
 DOMAIN,www.masterduelmeta.com
+DOMAIN,imgserv.duellinksmeta.com
+DOMAIN,s3.duellinksmeta.com
 DOMAIN,ygocdb.com
 DOMAIN,get-deck.com
+DOMAIN,api.get-deck.com
+DOMAIN,img.get-deck.com
 DOMAIN,ygocounter.com
 # peerban
 DOMAIN,bcr.pbh-btn.ghorg.ghostchu-services.top

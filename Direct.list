@@ -11,6 +11,12 @@ DOMAIN,media.ethicalads.io
 DOMAIN,unpkg.com
 # masterduel
 DOMAIN,www.applilink.jp
+# iherb
+DOMAIN,pal.app.iherb.com
+DOMAIN,s3.images-iherb.com
+DOMAIN,cloudinary.images-iherb.com
+DOMAIN,clientstream.launchdarkly.comi
+DOMAIN,mobile.launchdarkly.com
 #
 DOMAIN,www.reeracoen.tw
 DOMAIN,www.sumo.or.jp

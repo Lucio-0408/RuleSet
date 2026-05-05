@@ -1,5 +1,5 @@
 DOMAIN,sessions.bugsnag.com
-DOMAIN,resolver.msg.xiaomi.netup
+DOMAIN,resolver.msg.xiaomi.net
 # via
 DOMAIN,data.flurry.com
 DOMAIN,cfg.flurry.com

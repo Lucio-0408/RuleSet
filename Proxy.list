@@ -18,6 +18,10 @@ DOMAIN,wiki.metacubex.one
 DOMAIN,saucenao.com
 DOMAIN,img3.saucenao.com
 DOMAIN,img1.saucenao.com
+DOMAIN,www.hajimiapi.com
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN,who.is
 # DOMAIN,cdnjs.cloudflare.com
 DOMAIN,guatizi.com
 DOMAIN,ffq.la

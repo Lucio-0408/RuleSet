@@ -1,0 +1,40 @@
+payload:
+# kazumi
+  - api.bgm.tv
+  - cas.dandanplay.net
+  - api.dandanplay.net
+# ygo mobile
+  - cdn02.moecube.com
+  - cdntx.moecube.com
+  - cdncf.moecube.com
+  - ocg-rule.readthedocs.io
+  - media.ethicalads.io
+  - unpkg.com
+# masterduel
+  - www.applilink.jp
+# iherb
+  - pal.app.iherb.com
+  - s3.images-iherb.com
+  - cloudinary.images-iherb.com
+  - clientstream.launchdarkly.com
+  - mobile.launchdarkly.com
+#
+  - www.reeracoen.tw
+  - www.sumo.or.jp
+  - +.snssdk.com
+  - +.monsterhunter.com
+  - www.capcom-games.com
+  - api.byyang.top
+  - doc.byyoung.top
+  - api.bitwarden.com
+  - +.syncthing.net
+  - +.zerotier.com
+  - +.immersivetranslate.com
+  - download.omarea.com
+  - time.is
+  - bugreport.pixpin.com
+  - +.untapped.gg
+  - +.simeji.me
+  - yugioh-wiki.net
+  - www.db.yugioh-card.com
+  - +.ygo-lab.top

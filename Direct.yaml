@@ -1,24 +1,33 @@
 payload:
-# kazumi
+  # kazumi
   - api.bgm.tv
   - cas.dandanplay.net
   - api.dandanplay.net
-# ygo mobile
+  # ygo mobile
   - cdn02.moecube.com
   - cdntx.moecube.com
   - cdncf.moecube.com
   - ocg-rule.readthedocs.io
   - media.ethicalads.io
   - unpkg.com
-# masterduel
+  # masterduel
   - www.applilink.jp
-# iherb
+  # iherb
   - pal.app.iherb.com
   - s3.images-iherb.com
   - cloudinary.images-iherb.com
   - clientstream.launchdarkly.com
   - mobile.launchdarkly.com
-#
+  # 倒数日
+  - idays-cdn.appcloudcdn.com
+  - app-cdn.appcloudcdn.com
+  - idaily-cdn.appcloudcdn.com
+  - app-push.appcloudcdn.com
+  - chassis-a-cdn.appcloudcdn.com
+  # 
+  - cdn.ynuf.aliapp.org
+  - images.weserv.nl
+  - com.max.xiaoheihe.localfont
   - www.reeracoen.tw
   - www.sumo.or.jp
   - +.snssdk.com
@@ -26,7 +35,6 @@ payload:
   - www.capcom-games.com
   - api.byyang.top
   - doc.byyoung.top
-  - api.bitwarden.com
   - +.syncthing.net
   - +.zerotier.com
   - +.immersivetranslate.com

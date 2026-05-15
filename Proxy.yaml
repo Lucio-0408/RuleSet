@@ -1,14 +1,4 @@
 payload:
-  - api.ipify.org
-  - api-ipv4.ip.sb
-  - api.ip.sb
-  - ip-api.com
-  - api.myip.com
-  - ipinfo.io
-  - +.ipinfo.io
-  - ipwho.is
-  - ipapi.co
-  - ident.me
   - +.docker.io
   - +.obsproject.com
   - download.sweetscape.com
@@ -20,7 +10,6 @@ payload:
   - img3.saucenao.com
   - img1.saucenao.com
   - www.hajimiapi.com
-  - +.skk.moe
   - who.is
   - my.dnshe.com
   - guatizi.com
@@ -31,6 +20,12 @@ payload:
   - cdn-eu.dynamicyield.com
   - st-eu.dynamicyield.com
   - rcom-eu.dynamicyield.com
+  # ip test
+  - ipinfo.io
+  - +.ipinfo.io
+  - myip.ipip.net
+  - d.skk.moe
+  - qqwry.api.skk.moe
   # masterduel
   - ayk-pur.mo.konami.net
   - ayk-stm-pur.mo.konami.net

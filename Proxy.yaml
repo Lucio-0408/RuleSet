@@ -47,9 +47,9 @@ payload:
   - img.get-deck.com
   - ygocounter.com
   # peerban
-  - bcr.pbh-btn.ghorg.ghostchu-services.top
-  - uma.pbh-btn.com
-  - pbh-files.pbh-btn.com
+  #- bcr.pbh-btn.ghorg.ghostchu-services.top
+  #- uma.pbh-btn.com
+  #- pbh-files.pbh-btn.com
   # young jump
   - api16-access-gcp.pangle-b.io
   - api.karte.io

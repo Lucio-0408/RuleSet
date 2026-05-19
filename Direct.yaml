@@ -25,6 +25,9 @@ payload:
   - app-push.appcloudcdn.com
   - chassis-a-cdn.appcloudcdn.com
   # 
+  - +.techpowerup.com
+  - www.gpu-z.com
+  - tpucdn.com
   - cdn.ynuf.aliapp.org
   - freefilesync.org
   - images.weserv.nl

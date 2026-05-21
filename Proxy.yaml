@@ -26,7 +26,6 @@ payload:
   # ip test
   - ipinfo.io
   - +.ipinfo.io
-  - myip.ipip.net
   - d.skk.moe
   - qqwry.api.skk.moe
   # masterduel

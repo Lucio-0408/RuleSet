@@ -4,9 +4,6 @@ payload:
   - cas.dandanplay.net
   - api.dandanplay.net
   # ygo mobile
-  - cdn02.moecube.com
-  - cdntx.moecube.com
-  - cdncf.moecube.com
   - ocg-rule.readthedocs.io
   - media.ethicalads.io
   - unpkg.com
@@ -19,19 +16,20 @@ payload:
   - clientstream.launchdarkly.com
   - mobile.launchdarkly.com
   # 倒数日
-  - idays-cdn.appcloudcdn.com
-  - app-cdn.appcloudcdn.com
-  - idaily-cdn.appcloudcdn.com
-  - app-push.appcloudcdn.com
-  - chassis-a-cdn.appcloudcdn.com
+  # - idays-cdn.appcloudcdn.com
+  # - app-cdn.appcloudcdn.com
+  # - idaily-cdn.appcloudcdn.com
+  # - app-push.appcloudcdn.com
+  # - chassis-a-cdn.appcloudcdn.com
   # 
+  - myip.ipip.net
   - +.techpowerup.com
   - www.gpu-z.com
   - tpucdn.com
-  - cdn.ynuf.aliapp.org
+  # - cdn.ynuf.aliapp.org
   - freefilesync.org
   - images.weserv.nl
-  - com.max.xiaoheihe.localfont
+  # - com.max.xiaoheihe.localfont
   - www.reeracoen.tw
   - www.sumo.or.jp
   - +.snssdk.com
@@ -45,7 +43,9 @@ payload:
   - download.omarea.com
   - time.is
   - bugreport.pixpin.com
-  - +.untapped.gg
+  - static.untapped.gg
+  - companion.untapped.gg
+  - ygomjson.untapped.gg
   - +.simeji.me
   - yugioh-wiki.net
   - www.db.yugioh-card.com

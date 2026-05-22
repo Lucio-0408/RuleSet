@@ -21,7 +21,6 @@ payload:
   # - idaily-cdn.appcloudcdn.com
   # - app-push.appcloudcdn.com
   # - chassis-a-cdn.appcloudcdn.com
-  # 
   - myip.ipip.net
   - +.techpowerup.com
   - www.gpu-z.com
@@ -42,6 +41,7 @@ payload:
   - +.immersivetranslate.com
   - download.omarea.com
   - time.is
+  - fr.time.is
   - bugreport.pixpin.com
   - static.untapped.gg
   - companion.untapped.gg

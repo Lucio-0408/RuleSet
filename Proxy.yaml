@@ -23,6 +23,8 @@ payload:
   - memberapi.bitcomet.com
   - members.bitcomet.com
   - passport.bitcomet.com
+  - inside.bitcomet.com
+  - appassets.bitcomet.com
   # ip test
   - ipinfo.io
   - +.ipinfo.io

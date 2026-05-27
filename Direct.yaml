@@ -7,6 +7,9 @@ payload:
   - ocg-rule.readthedocs.io
   - media.ethicalads.io
   - unpkg.com
+  - tiramisu.moecube.com
+  - sapi.moecube.com
+  - cdn02.moecube.com
   # masterduel
   - www.applilink.jp
   # iherb
@@ -50,3 +53,5 @@ payload:
   - yugioh-wiki.net
   - www.db.yugioh-card.com
   - +.ygo-lab.top
+  - uupdump.net
+  - files.rg-adguard.net

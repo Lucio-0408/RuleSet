@@ -26,9 +26,9 @@ payload:
   - passport.bitcomet.com
   - inside.bitcomet.com
   - appassets.bitcomet.com
+  # bitwarden
+  - api.bitwarden.com
   # ip test
-  - ipinfo.io
-  - +.ipinfo.io
   - d.skk.moe
   - qqwry.api.skk.moe
   # masterduel

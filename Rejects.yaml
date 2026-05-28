@@ -1,6 +1,7 @@
 payload:
   - sessions.bugsnag.com
   - resolver.msg.xiaomi.net
+  - ohttp-relay-safebrowsing-android.google.fastly-edge.com
   # via
   - data.flurry.com
   - cfg.flurry.com

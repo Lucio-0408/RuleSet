@@ -15,6 +15,7 @@ payload:
   # iherb
   - pal.app.iherb.com
   - s3.images-iherb.com
+  - graphql-catalog.app.iherb.com
   - cloudinary.images-iherb.com
   - clientstream.launchdarkly.com
   - mobile.launchdarkly.com
@@ -31,7 +32,7 @@ payload:
   # - cdn.ynuf.aliapp.org
   - freefilesync.org
   - images.weserv.nl
-  # - com.max.xiaoheihe.localfont
+  - com.max.xiaoheihe.localfont
   - www.reeracoen.tw
   - www.sumo.or.jp
   - +.snssdk.com

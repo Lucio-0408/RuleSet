@@ -7,3 +7,14 @@ payload:
  - alcor-sirius.appspot.com
  - code.jquery.com
  - edge.adobedc.net
+ # masterduel
+ - www.applilink.jp
+ - ayk-deck.mo.konami.net
+ - ayk-pur.mo.konami.net
+ - ayk-stm-pur.mo.konami.net
+ - ayk-auth.mo.konami.net
+ - ayk-stm-auth.mo.konami.net
+ - ayk-match.mo.konami.net
+ - ayk-pvp.mo.konami.net
+ - ayk-web.mo.konami.net
+ - yocg-ap.cs.konami.net

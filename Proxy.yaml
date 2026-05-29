@@ -31,15 +31,6 @@ payload:
   # ip test
   - d.skk.moe
   - qqwry.api.skk.moe
-  # masterduel
-  - ayk-pur.mo.konami.net
-  - ayk-stm-pur.mo.konami.net
-  - ayk-auth.mo.konami.net
-  - ayk-stm-auth.mo.konami.net
-  - ayk-match.mo.konami.net
-  - ayk-pvp.mo.konami.net
-  - ayk-web.mo.konami.net
-  - yocg-ap.cs.konami.net
   # ygo
   - files.ygom.top
   - ygom.top

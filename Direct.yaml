@@ -24,11 +24,14 @@ payload:
   - logx.optimizely.com
   - mobile-collector.newrelic.com
   # 倒数日
-  # - idays-cdn.appcloudcdn.com
-  # - app-cdn.appcloudcdn.com
-  # - idaily-cdn.appcloudcdn.com
-  # - app-push.appcloudcdn.com
-  # - chassis-a-cdn.appcloudcdn.com
+  - idays-cdn.appcloudcdn.com
+  - idaily-cdn.appcloudcdn.com
+  - app-push.appcloudcdn.com
+  - app-cdn.appcloudcdn.com
+  - chassis-a-cdn.appcloudcdn.com
+  # 贴吧
+  - adx-data-u1.ubixioe.com
+  - entry-su1.ubixioe.com
   - myip.ipip.net
   - +.techpowerup.com
   - www.gpu-z.com

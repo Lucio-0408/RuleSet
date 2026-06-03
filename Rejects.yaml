@@ -5,12 +5,6 @@ payload:
   # via
   - data.flurry.com
   - cfg.flurry.com
-  # chrome
-  #- beacons.gvt2.com
-  #- beacons.gcp.gvt2.com
-  # DOMAIN-REGEX,beacons\d.gvt2.com
-  # qinglong
-  #- o1098464.ingest.sentry.io
   # mdm
   - launchpad.privacymanager.io
   - cdn.api.btloader.com

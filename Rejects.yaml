@@ -11,6 +11,30 @@ payload:
   # DOMAIN-REGEX,beacons\d.gvt2.com
   # qinglong
   #- o1098464.ingest.sentry.io
+  # mdm
+  - launchpad.privacymanager.io
+  - cdn.api.btloader.com
+  - analyzecorona.com
+  - api.btloader.com
+  - +.cdn.intergient.com
+  - launchpad-wrapper.privacymanager.io
+  - id.hadron.ad.gt
+  - lb.eu-1-id5-sync.com
+  - cdn.btloader.com
+  - pogo.ccgateway.net
+  - ab.dns-finder.com
+  - privacy-location-edge.ccgateway.net
+  - ups.analytics.yahoo.com
+  - rp.liadm.com
+  - lexicon.33across.com
+  - carbon-cdn.ccgateway.net
+  - fid.agkn.com
+  - idx.liadm.com
+  - cdn.intergi.com
+  - id5-sync.com
+  - config.playwire.com
+  - prod.uidapi.com
+  - btloader.com  
   # hanime
   - stripchatgirls.com
   - s7.addthis.com

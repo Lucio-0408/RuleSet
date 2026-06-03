@@ -3,11 +3,11 @@ payload:
  - cardgame-network.konami.net
  - my.konami.net
  - my1.konami.net
- - cdn-apac.onetrust.com
- - assets.adobedtm.com
- - alcor-sirius.appspot.com
- - code.jquery.com
- - edge.adobedc.net
+#  - cdn-apac.onetrust.com
+#  - assets.adobedtm.com
+#  - alcor-sirius.appspot.com
+#  - code.jquery.com
+#  - edge.adobedc.net
  # masterduel
  - www.applilink.jp
  - ayk-deck.mo.konami.net

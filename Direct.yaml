@@ -20,6 +20,9 @@ payload:
   - cloudinary.images-iherb.com
   - clientstream.launchdarkly.com
   - mobile.launchdarkly.com
+  - collector-pxvtidnbtc.perimeterx.net
+  - logx.optimizely.com
+  - mobile-collector.newrelic.com
   # 倒数日
   # - idays-cdn.appcloudcdn.com
   # - app-cdn.appcloudcdn.com

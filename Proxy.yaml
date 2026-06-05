@@ -34,6 +34,8 @@ payload:
   # ygo
   - files.ygom.top
   - ygom.top
+  # mdm
+  - wsrv.nl
   - www.masterduelmeta.com
   - imgserv.duellinksmeta.com
   - s3.duellinksmeta.com

@@ -32,10 +32,7 @@ payload:
   - d.skk.moe
   - qqwry.api.skk.moe
   # untapped.gg
-  - ygom.untapped.gg
-  - static.untapped.gg
-  - companion.untapped.gg
-  - ygomjson.untapped.gg
+  - +.untapped.gg
   # ygo
   - files.ygom.top
   - ygom.top

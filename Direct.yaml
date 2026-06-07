@@ -22,12 +22,6 @@ payload:
   - collector-pxvtidnbtc.perimeterx.net
   - logx.optimizely.com
   - mobile-collector.newrelic.com
-  # 倒数日
-  # - idays-cdn.appcloudcdn.com
-  # - idaily-cdn.appcloudcdn.com
-  # - app-push.appcloudcdn.com
-  # - app-cdn.appcloudcdn.com
-  # - chassis-a-cdn.appcloudcdn.com
   #
   - myip.ipip.net
   - +.techpowerup.com
@@ -37,7 +31,6 @@ payload:
   - images.weserv.nl
   - www.reeracoen.tw
   - www.sumo.or.jp
-  - +.snssdk.com
   - +.monsterhunter.com
   - www.capcom-games.com
   - api.byyang.top
@@ -49,17 +42,10 @@ payload:
   - download.omarea.com
   - time.is
   - fr.time.is
-  - bugreport.pixpin.com
-  - static.untapped.gg
-  - companion.untapped.gg
-  - ygomjson.untapped.gg
   - +.simeji.me
   - yugioh-wiki.net
   - www.db.yugioh-card.com
   - +.ygo-lab.top
-  - uryolxtzcwfyoqelkess.supabase.co
-  - uupdump.net
-  - files.rg-adguard.net
   - cdn.jsdelivr.net
   - testingcf.jsdelivr.net
   - fastly.jsdelivr.net

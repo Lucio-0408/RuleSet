@@ -6,7 +6,7 @@ payload:
  # - cdn-apac.onetrust.com
  - assets.adobedtm.com
 #  - alcor-sirius.appspot.com
-#  - code.jquery.com
+ - code.jquery.com
  - edge.adobedc.net
  # masterduel
  - www.applilink.jp

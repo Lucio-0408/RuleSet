@@ -28,6 +28,8 @@ payload:
   - appassets.bitcomet.com
   # bitwarden
   - api.bitwarden.com
+  - identity.bitwarden.com
+  - icons.bitwarden.net
   # ip test
   - d.skk.moe
   - qqwry.api.skk.moe

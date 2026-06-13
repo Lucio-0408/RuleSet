@@ -26,6 +26,20 @@ payload:
   - passport.bitcomet.com
   - inside.bitcomet.com
   - appassets.bitcomet.com
+  - wiki.qtecrab.com
+  # ip test
+  - ip-api.com
+  - ident.me
+  - ipapi.co
+  - ipinfo.io
+  - ipwho.is
+  - api.myip.com
+  - api.ip.sb
+  - api.ttt.sh
+  # ygocounter
+  - www.mediawiki.org
+  # neuron
+  - d1xxetyyss4ajs.cloudfront.net
   # bitwarden
   - api.bitwarden.com
   - identity.bitwarden.com

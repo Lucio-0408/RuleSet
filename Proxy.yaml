@@ -13,8 +13,9 @@ payload:
   - who.is
   - my.dnshe.com
   - guatizi.com
-  - www.ffq.la
-  - ffqla.com
+  - +.ffq.la
+  - +.ffqla.net
+  - +.ffqla.com
   - +.ntunhs.net
   - client.relay.crisp.chat
   - client.crisp.chat
@@ -27,6 +28,7 @@ payload:
   - inside.bitcomet.com
   - appassets.bitcomet.com
   - wiki.qtecrab.com
+  - modules.lsposed.org
   # ip test
   - ip-api.com
   - ident.me

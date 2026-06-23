@@ -1,6 +1,7 @@
 payload:
   - +.docker.io
   - +.obsproject.com
+  - sourceforge.net
   - download.sweetscape.com
   - download.tualatin.club
   - +.qiangwaikan.com
@@ -29,6 +30,7 @@ payload:
   - appassets.bitcomet.com
   - wiki.qtecrab.com
   - modules.lsposed.org
+  - i.postimg.cc
   # ip test
   - ip-api.com
   - ident.me

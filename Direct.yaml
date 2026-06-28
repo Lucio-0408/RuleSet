@@ -23,6 +23,7 @@ payload:
   - logx.optimizely.com
   - mobile-collector.newrelic.com
   #
+  - files.rg-adguard.net
   - myip.ipip.net
   - +.techpowerup.com
   - www.gpu-z.com

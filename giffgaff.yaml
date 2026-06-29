@@ -1,7 +1,6 @@
 payload:
-  - publicapi.giffgaff.com
-  - static.giffgaff.com
-  - id.giffgaff.com
   - assets.eascdn.net
   - mobile-data.onetrust.io
   - u.expo.dev
+  - +.giffgaff.com
+  - collection.decibelinsight.net

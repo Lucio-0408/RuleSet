@@ -1,8 +1,6 @@
 payload:
   # kazumi
   - api.bgm.tv
-  - cas.dandanplay.net
-  - api.dandanplay.net
   # ygo mobile
   - ocg-rule.readthedocs.io
   - media.ethicalads.io
@@ -24,6 +22,7 @@ payload:
   - mobile-collector.newrelic.com
   #
   - files.rg-adguard.net
+  - +.sourceforge.net
   - myip.ipip.net
   - +.techpowerup.com
   - www.gpu-z.com

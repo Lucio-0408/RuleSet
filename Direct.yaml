@@ -27,6 +27,7 @@ payload:
   - mobile-collector.newrelic.com
   #
   - trigger.macrodroid.com
+  - backend.macrodroid.com
   - files.rg-adguard.net
   - +.sourceforge.net
   - myip.ipip.net

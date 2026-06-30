@@ -26,6 +26,7 @@ payload:
   - logx.optimizely.com
   - mobile-collector.newrelic.com
   #
+  - trigger.macrodroid.com
   - files.rg-adguard.net
   - +.sourceforge.net
   - myip.ipip.net

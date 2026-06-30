@@ -1,6 +1,11 @@
 payload:
   # kazumi
   - api.bgm.tv
+  - +.dandanplay.net
+  # emby反代
+  - eemby.cc.cd
+  - ok.youuko.cc.cd
+  - okemby.wangjunqiang.dev
   # ygo mobile
   - ocg-rule.readthedocs.io
   - media.ethicalads.io

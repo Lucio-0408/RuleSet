@@ -1,6 +1,7 @@
 payload:
   - +.docker.io
   - +.obsproject.com
+  - ghfast.top
   - sourceforge.net
   - download.sweetscape.com
   - download.tualatin.club
@@ -32,6 +33,8 @@ payload:
   - modules.lsposed.org
   - i.postimg.cc
   - +.rg-adguard.net
+  - +.mediafire.com
+  - www.mediafiredls.com
   # ip test
   - ip-api.com
   - ident.me
@@ -87,6 +90,7 @@ payload:
   #
   - +.xxfhd.com
   - javdb.com
+  - jdforrepam.com
   - +.javlibrary.com
   - c0.jdbstatic.com
   - www.javbus.com
@@ -94,6 +98,9 @@ payload:
   - rule34video.com
   - +.boomio-cdn.com
   - t.snaptrckr.fun
+  - www.javrocket.top
+  - javrocket.top
+  - javdb574.com
   #
   - missav.ai
   - client-rapi-missav.recombee.com

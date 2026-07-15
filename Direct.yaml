@@ -9,13 +9,7 @@ payload:
   # ygo mobile
   - ocg-rule.readthedocs.io
   - media.ethicalads.io
-  - tiramisu.moecube.com
-  - sapi.moecube.com
-  - cdn02.moecube.com
-  - cdntx.moecube.com
-  - 2pick.moecube.com
-  - cdncf.moecube.com
-  # untapped.gg
+  - +.moecube.com
   - +.untapped.gg
   # iherb
   - pal.app.iherb.com
@@ -27,11 +21,13 @@ payload:
   - collector-pxvtidnbtc.perimeterx.net
   - logx.optimizely.com
   - mobile-collector.newrelic.com
+  # 
+  - gitlab.com
+  - gitea.com
   #
   - ygopro.org
+  - ds.kaspersky.com
   - static.mediafire.com
-  - trigger.macrodroid.com
-  - backend.macrodroid.com
   - files.rg-adguard.net
   - +.sourceforge.net
   - myip.ipip.net

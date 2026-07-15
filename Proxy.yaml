@@ -24,11 +24,7 @@ payload:
   - cdn-eu.dynamicyield.com
   - st-eu.dynamicyield.com
   - rcom-eu.dynamicyield.com
-  - memberapi.bitcomet.com
-  - members.bitcomet.com
-  - passport.bitcomet.com
-  - inside.bitcomet.com
-  - appassets.bitcomet.com
+  - +.bitcomet.com
   - wiki.qtecrab.com
   - modules.lsposed.org
   - i.postimg.cc
@@ -42,8 +38,10 @@ payload:
   - ipinfo.io
   - ipwho.is
   - api.myip.com
-  - api.ip.sb
+  - +.ip.sb
   - api.ttt.sh
+  - d.skk.moe
+  - qqwry.api.skk.moe
   # ygocounter
   - www.mediawiki.org
   # neuron
@@ -52,9 +50,6 @@ payload:
   - api.bitwarden.com
   - identity.bitwarden.com
   - icons.bitwarden.net
-  # ip test
-  - d.skk.moe
-  - qqwry.api.skk.moe
   # ygo
   - files.ygom.top
   - ygom.top

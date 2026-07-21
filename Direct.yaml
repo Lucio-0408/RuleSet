@@ -1,4 +1,6 @@
 payload:
+  # cn_domin之外
+  - cdn.ynuf.aliapp.org
   # kazumi
   - api.bgm.tv
   - +.dandanplay.net

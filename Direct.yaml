@@ -1,15 +1,12 @@
 payload:
-  # cn_domin之外
+  # cn_domain之外
   - cdn.ynuf.aliapp.org
   # kazumi
   - api.bgm.tv
   - +.dandanplay.net
-  # emby反代
-  - eemby.cc.cd
-  - ok.youuko.cc.cd
-  - okemby.wangjunqiang.dev
   # ygo mobile
   - ocg-rule.readthedocs.io
+  - seccdn.libravatar.org
   - media.ethicalads.io
   - +.moecube.com
   - +.untapped.gg

@@ -26,11 +26,14 @@ payload:
   - rcom-eu.dynamicyield.com
   - +.bitcomet.com
   - wiki.qtecrab.com
-  - modules.lsposed.org
   - i.postimg.cc
   - +.rg-adguard.net
   - +.mediafire.com
   - www.mediafiredls.com
+  # lsposed
+  - api.nullptr.icu
+  - +.lsposed.org
+  - lsposed.zip
   # ip test
   - ip-api.com
   - ident.me

@@ -4,6 +4,8 @@ payload:
   - ohttp-relay-safebrowsing-android.google.fastly-edge.com
   # MacroDroid
   - api16-access-wf-sg.pangle-b.io
+  - api16-access-wf-sg.pangle.io
+  - api16-dual-event-sg2.pangle.io
   # via
   - data.flurry.com
   - cfg.flurry.com

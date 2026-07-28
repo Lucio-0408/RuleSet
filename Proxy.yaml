@@ -8,9 +8,7 @@ payload:
   - +.qiangwaikan.com
   - shop.owo233.xyz
   - wiki.metacubex.one
-  - saucenao.com
-  - img3.saucenao.com
-  - img1.saucenao.com
+  - +.saucenao.com
   - www.hajimiapi.com
   - who.is
   - my.dnshe.com
@@ -96,15 +94,6 @@ payload:
   - rule34video.com
   - +.boomio-cdn.com
   - t.snaptrckr.fun
-  - www.javrocket.top
-  - javrocket.top
-  - javdb574.com
-  - javmenu19.cc
-  #
-  - missav.ai
-  - client-rapi-missav.recombee.com
-  - fourhoi.com
-  - surrit.com
   #
   - mail-api.proton.me
   - api.protonmail.ch

@@ -6,6 +6,7 @@ payload:
   - +.dandanplay.net
   # ygo mobile
   - ocg-rule.readthedocs.io
+  - ocg-rule-comment.vercel.app
   - seccdn.libravatar.org
   - media.ethicalads.io
   - +.moecube.com

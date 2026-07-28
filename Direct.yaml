@@ -26,6 +26,8 @@ payload:
   - gitea.com
   #
   - ygopro.org
+  - fontsapi.zeoseven.com
+  - +.crashguard.me
   - ds.kaspersky.com
   - static.mediafire.com
   - files.rg-adguard.net

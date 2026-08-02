@@ -1,6 +1,9 @@
 payload:
   # cn_domain之外
   - cdn.ynuf.aliapp.org
+  - app-cdn.appcloudcdn.com
+  - chassis-a-cdn.appcloudcdn.com
+  - events.launchdarkly.com
   # kazumi
   - api.bgm.tv
   - +.dandanplay.net

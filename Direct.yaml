@@ -4,6 +4,7 @@ payload:
   - app-cdn.appcloudcdn.com
   - chassis-a-cdn.appcloudcdn.com
   - events.launchdarkly.com
+  - +.snssdk.com
   # kazumi
   - api.bgm.tv
   - +.dandanplay.net

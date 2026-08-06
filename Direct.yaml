@@ -5,6 +5,9 @@ payload:
   - chassis-a-cdn.appcloudcdn.com
   - events.launchdarkly.com
   - +.snssdk.com
+  # time
+  - +.pool.ntp.org
+  - time.nist.gov
   # kazumi
   - api.bgm.tv
   - +.dandanplay.net

@@ -3,6 +3,9 @@ payload:
  - cardgame-network.konami.net
  - my.konami.net
  - my1.konami.net
+ - store.konami.net
+ - +.konami.com
+ - sirius-dev.alcor.jp
  # - cdn-apac.onetrust.com
  - assets.adobedtm.com
 #  - alcor-sirius.appspot.com

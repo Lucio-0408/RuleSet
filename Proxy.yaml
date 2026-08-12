@@ -47,7 +47,7 @@ payload:
   - www.mediawiki.org
   - storage.ko-fi.com
   # neuron
-  - d1xxetyyss4ajs.cloudfront.net
+  - +.cloudfront.net
   # bitwarden
   - api.bitwarden.com
   - identity.bitwarden.com

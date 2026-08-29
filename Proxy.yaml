@@ -30,10 +30,17 @@ payload:
   # kazumi
   - api.kazumi.fyi
   - www.lmm85.com
-  - dm.xifanacg.com
   - hfkzm.com
   - www.dmla5.com
   - www.ylys.cc
+  - img2.cycimg.me  
+  - v16.xzcs3zlph.com
+  - v16.akamaized.net
+  # 稀饭动漫
+  - dm.xifanacg.com
+  - anime.xifanacg.com
+  - play.xfvod.pro
+  - img2.xfmanga.top
   # lsposed
   - api.nullptr.icu
   - +.lsposed.org

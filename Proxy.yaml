@@ -1,7 +1,6 @@
 payload:
   - +.docker.io
   - +.obsproject.com
-  - ghfast.top
   - sourceforge.net
   - download.sweetscape.com
   - download.tualatin.club
@@ -28,6 +27,13 @@ payload:
   - +.rg-adguard.net
   - +.mediafire.com
   - www.mediafiredls.com
+  # kazumi
+  - api.kazumi.fyi
+  - www.lmm85.com
+  - dm.xifanacg.com
+  - hfkzm.com
+  - www.dmla5.com
+  - www.ylys.cc
   # lsposed
   - api.nullptr.icu
   - +.lsposed.org

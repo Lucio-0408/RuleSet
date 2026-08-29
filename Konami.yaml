@@ -12,6 +12,7 @@ payload:
  - c.go-mpulse.net
  - cdn-apac.onetrust.com
  - geolocation.onetrust.com
+ - privacyportal-apac.onetrust.com
  - assets.adobedtm.com
 #  - alcor-sirius.appspot.com
  - code.jquery.com

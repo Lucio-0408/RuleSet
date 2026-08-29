@@ -9,8 +9,7 @@ payload:
   - +.pool.ntp.org
   - time.nist.gov
   # kazumi
-  - api.bgm.tv
-  - +.dandanplay.net
+  # - +.dandanplay.net
   # ygo mobile
   - ocg-rule.readthedocs.io
   - ocg-rule-comment.vercel.app

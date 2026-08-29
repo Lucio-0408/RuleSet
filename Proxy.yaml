@@ -29,16 +29,21 @@ payload:
   - www.mediafiredls.com
   # kazumi
   - api.kazumi.fyi
-  - www.lmm85.com
-  - hfkzm.com
-  - www.dmla5.com
   - www.ylys.cc
   - img2.cycimg.me  
   - v16.xzcs3zlph.com
   - v16.akamaized.net
+  # 风车
+  - dmla.xyz
+  - www.dmla5.com
+  - img.feifeiimg.vip
+  - tupian.ffeiimg.com
+  # 路漫漫
+  - www.lmmzx.com
+  - www.lmm85.com
   # 稀饭动漫
-  - dm.xifanacg.com
   - anime.xifanacg.com
+  - openpanel.dev
   - play.xfvod.pro
   - img2.xfmanga.top
   # lsposed

@@ -14,6 +14,8 @@ payload:
  - geolocation.onetrust.com
  - privacyportal-apac.onetrust.com
  - assets.adobedtm.com
+ # neuron
+ - +.cloudfront.net
 #  - alcor-sirius.appspot.com
  - code.jquery.com
  - edge.adobedc.net

@@ -64,8 +64,6 @@ payload:
   # ygocounter
   - www.mediawiki.org
   - storage.ko-fi.com
-  # neuron
-  - +.cloudfront.net
   # bitwarden
   - api.bitwarden.com
   - identity.bitwarden.com

@@ -27,6 +27,12 @@ payload:
   - +.rg-adguard.net
   - +.mediafire.com
   - www.mediafiredls.com
+  - files.pythonhosted.org
+  - pypi.org
+  # github镜像
+  - ghfast.top
+  - git.yylx.win
+  - cdn.akaere.online
   # kazumi
   - api.kazumi.fyi
   - www.ylys.cc
